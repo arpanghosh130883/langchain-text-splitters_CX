@@ -1,4 +1,4 @@
-from langchain.text_splitter import RecursiveCharacterTextSplitter,Language
+from langchain_classic.text_splitter import RecursiveCharacterTextSplitter,Language
 
 text = """
 class Student:
